@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:WebDriverBasics,org.eclipse.launchbar.core.descriptorType.default\:LoginTest.loginCorrectCredentialsTest,org.eclipse.launchbar.core.descriptorType.default\:TestNgBasics,org.eclipse.launchbar.core.descriptorType.default\:PractiseAtHome,org.eclipse.launchbar.core.descriptorType.default\:LoginTest,org.eclipse.launchbar.core.descriptorType.default\:ChildRunTimePolymorphismClass,org.eclipse.launchbar.core.descriptorType.default\:ParentRunTimePolymorphismClass,org.eclipse.launchbar.core.descriptorType.default\:ChildRunTimePolymorphism
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ChildRunTimePolymorphism/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ChildRunTimePolymorphism/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:ChildRunTimePolymorphismClass/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ChildRunTimePolymorphismClass/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:LoginTest/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:LoginTest/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:PractiseAtHome/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:PractiseAtHome/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:WebDriverBasics/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:WebDriverBasics/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

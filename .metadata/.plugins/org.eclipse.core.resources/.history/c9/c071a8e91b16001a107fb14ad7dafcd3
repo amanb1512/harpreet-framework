@@ -1,0 +1,19 @@
+package runTimePoymorphism;
+
+public class ChildRunTimePolymorphismClass   {
+	
+	public void myMethod() {System.out.println("i am a method of child class");
+	}
+
+	public static void main(String[] args) {
+		
+		 ChildRunTimePolymorphismClass obj = new ChildRunTimePolymorphismClass();
+		
+		obj.myMethod();
+		
+		
+		
+
+	}
+
+}

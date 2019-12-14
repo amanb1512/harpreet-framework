@@ -1,0 +1,39 @@
+package com.qa.facebook.test;
+
+import java.util.Properties;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.BeforeMethod;
+
+import com.qa.facebook.pages.BasePage;
+
+
+
+public class LoginTest {
+	
+	
+	public BasePage basePage;
+	
+	public WebDriver driver;
+	
+	public Properties prop;
+	
+	
+	@BeforeMethod
+	
+	public void setUp() {
+		
+		basePage = new BasePage();
+		
+		prop=  basePage.initializeProperties();
+	 
+		driver = 	basePage.initializeDriver();
+		
+		
+		driver.get(prop.getProperty("url"));
+	 
+	 
+		
+	}
+
+}

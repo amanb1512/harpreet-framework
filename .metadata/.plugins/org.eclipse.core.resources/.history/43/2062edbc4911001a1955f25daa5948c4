@@ -1,0 +1,5 @@
+package com.qa.facebook.pages;
+
+public class LoginPage {
+
+}
